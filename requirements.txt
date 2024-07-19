@@ -1,0 +1,6 @@
+imutils
+numpy
+pyautogui
+dlib
+opencv-python
+opencv-python-headless
