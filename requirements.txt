@@ -4,3 +4,5 @@ pyautogui
 dlib
 opencv-python
 opencv-python-headless
+shape_predictor_68_face_landmarks.dat (keep this file in model folder)
+haarcascade_frontalface_default.xml
